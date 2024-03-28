@@ -1,0 +1,1 @@
+Download the project and put it into the htdocs file which is located into the xampp file. Then create a database in phpmyadmin according to the code. After that run the apache and mysql server using xampp and see the output in the localhost.
